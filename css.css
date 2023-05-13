@@ -1,0 +1,225 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: BankGothic Lt BT ;
+    background-color:burlywood;
+    margin: 0px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+#header{
+    top: 0;
+    margin: 0px;
+    height: 45px;
+    position: sticky;
+    z-index: 1;
+    background-color: black;
+}
+
+#a{
+    font-size: 30px;
+    position: relative;
+    left: 2%;
+    top: 10%; 
+    color: white; 
+}
+
+#b{
+    font-size: 30px;
+    position: relative;
+    left: 39%;
+    top: 10%;dotted
+}
+
+#b:hover{   
+    border-bottom: 3px dotted yellowgreen;
+    border-radius: 15%;
+    border-top: 3px dotted yellowgreen;
+}
+
+#c{
+    font-size: 30px;
+    position: relative;
+    left: 41%;
+    top: 10%;    
+}
+
+#c:hover{   
+    border-bottom: 3px dotted yellowgreen;
+    border-radius: 15%;
+    border-top: 3px dotted yellowgreen;
+}
+
+#d{
+    font-size: 30px;
+    position: relative;
+    left: 43%;
+    top: 10%;   
+}
+
+#d:hover{   
+    border-bottom: 3px dotted yellowgreen;
+    border-radius: 15%;
+    border-top: 3px dotted yellowgreen;
+}
+
+#e{
+    font-size: 30px;
+    position: relative;
+    left: 45%;
+    top: 10%;    
+}
+
+#e:hover{   
+    border-bottom: 3px dotted yellowgreen;
+    border-radius: 15%;
+    border-top: 3px dotted yellowgreen;
+}
+
+#f{
+    font-size: 30px;
+    position: relative;
+    left: 47%;
+    top: 10%;     
+}
+
+#f:hover{   
+    border-bottom: 3px dotted yellowgreen;
+    border-top: 3px dotted yellowgreen;
+    border-radius: 15%;
+}
+
+#wallpaper{
+    height: 600px;
+}
+
+#img1{
+    position: relative;
+    left: 15px;
+}
+
+#for_you{
+    height: 500px;
+}
+
+#container{
+    height: 430px;
+}
+
+#one{
+    top: 0;
+    position: relative;
+    top: 2%;
+    left: 10%;
+    height: 91%;
+    width: 33%;
+}
+
+#two{
+    top: 0;
+    margin: 20px;
+    height: 91%;
+    width: 33%;
+    position: relative;
+    top: -95%;
+    left: 53%;
+}
+
+.font{
+    font-size: 50px;
+    position: relative;
+    left: 30%;
+}
+
+#about2{
+    font-size: 20px;
+    position: relative;
+    left: 0%;
+}
+
+.font1{
+    font-size: 50px;
+    position: relative;
+    left: 2%;
+}
+
+#three{
+    top: 0;
+    position: relative;
+    top: 2%;
+    left: 5%;
+    height: 70%;
+    width: 25%;
+}
+
+.font1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 200;
+    position: relative;
+    left: 0;
+    top: 81%;
+}
+
+#left1{
+    position: relative;
+    width: 45%;
+    left: 15%;
+}
+
+#left2{
+    position: relative;
+    top: -16%;
+    left: -10%;
+
+}
+
+#four{
+    top: 0;
+    position: relative;
+    top: -68.69%;
+    left: 37%;
+    height: 70%;
+    width: 25%;
+}
+
+#middle2{
+    position: relative;
+    top: -14%;
+    left: -2%;
+
+}
+
+#five{
+    top: 0;
+    position: relative;
+    top: -139.5%;
+    left: 75%;
+    height: 70%;
+    width: 20%;
+}
+
+#right2{
+    position: relative;
+    top: -14%;
+    left: -9%;
+
+}
+
+#contact{
+    height: 350px;
+}
+
+#footer{
+    height: 35px;
+    background-color: black;
+}
+
+#footer1{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
